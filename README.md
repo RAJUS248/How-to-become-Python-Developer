@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/9a64eb8c-3329-44ec-a8a4-b8ec84ab0b99" />
+
 # 🧭 How to Become a Python Software Developer  
 
 ![Progress](https://img.shields.io/badge/Progress-0%25-red?style=for-the-badge)
