@@ -1,5 +1,7 @@
 # 🧭 How to Become a Python Software Developer  
 
+![Progress](https://img.shields.io/badge/Progress-0%25-red?style=for-the-badge)
+
 Welcome to my 6-Month Python Developer Journey! 🚀  
 This roadmap helps me (and others) go from **beginner to job-ready Python Software Developer** through step-by-step learning, daily practice, and real projects.  
 
