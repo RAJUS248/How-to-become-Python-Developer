@@ -29,14 +29,14 @@ Each month focuses on specific goals, topics, practice tasks, and mini-projects 
 🎯 *Goal: Build a strong base in Python programming.*
 
 ### 🔹 Topics
-- [ ] Python syntax, keywords, indentation  
-- [ ] Data types (int, float, str, bool, list, tuple, dict, set)  
-- [ ] Input/output and type casting  
-- [ ] Conditional statements (`if`, `else`, `elif`)  
-- [ ] Loops (`for`, `while`)  
-- [ ] Functions (parameters, return values, scope)  
-- [ ] File handling (`open`, `read`, `write`)  
-- [ ] Exception handling (`try`, `except`, `finally`)  
+- [X] Python syntax, keywords, indentation  
+- [X] Data types (int, float, str, bool, list, tuple, dict, set)  
+- [X] Input/output and type casting  
+- [X] Conditional statements (`if`, `else`, `elif`)  
+- [X] Loops (`for`, `while`)  
+- [X] Functions (parameters, return values, scope)  
+- [] File handling (`open`, `read`, `write`)  
+- [] Exception handling (`try`, `except`, `finally`)  
 
 ### 🛠️ Practice
 - [ ] Write 10–20 small programs (calculator, palindrome checker, file copier)  
