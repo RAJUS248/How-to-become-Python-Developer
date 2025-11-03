@@ -172,21 +172,28 @@ By completing this roadmap, you’ll have:
 ## 📂 Folder Structure
 
 📁 how-to-become-python-developer/
+
 ├── Month1/
 │ ├── practice/
 │ ├── mini_project/
+
 ├── Month2/
 │ ├── OOP/
 │ ├── mini_project/
+
 ├── Month3/
 │ ├── database/
 │ ├── mini_project/
+
 ├── Month4/
 │ ├── web_app/
+
 ├── Month5/
 │ ├── deployment/
+
 ├── Month6/
 │ ├── final_projects/
+
 └── README.md
 
 
