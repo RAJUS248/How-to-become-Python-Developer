@@ -39,17 +39,17 @@ Each month focuses on specific goals, topics, practice tasks, and mini-projects 
 - [X] Conditional statements (`if`, `else`, `elif`)  
 - [X] Loops (`for`, `while`)  
 - [X] Functions (parameters, return values, scope)  
-- [] File handling (`open`, `read`, `write`)  
-- [] Exception handling (`try`, `except`, `finally`)  
+- [X] File handling (`open`, `read`, `write`)  
+- [X] Exception handling (`try`, `except`, `finally`)  
 
 ### 🛠️ Practice
-- [ ] Write 10–20 small programs (calculator, palindrome checker, file copier)  
-- [ ] Start using **VS Code** or **PyCharm** daily  
-- [ ] Solve 2–3 problems daily on [HackerRank Python](https://www.hackerrank.com/domains/tutorials/10-days-of-python)
+- [X] Write 10–20 small programs (calculator, palindrome checker, file copier)  
+- [X] Start using **VS Code** or **PyCharm** daily  
+- [X] Solve 2–3 problems daily on [HackerRank Python](https://www.hackerrank.com/domains/tutorials/10-days-of-python)
 
 ### 📚 Free Resources
-- [ ] 🎥 [Python Full Course – freeCodeCamp (YouTube)](https://www.youtube.com/watch?v=rfscVS0vtbw)  
-- [ ] 📘 [W3Schools Python Tutorial](https://www.w3schools.com/python/)  
+- [X] 🎥 [Python Full Course – freeCodeCamp (YouTube)](https://www.youtube.com/watch?v=rfscVS0vtbw)  
+- [X] 📘 [W3Schools Python Tutorial](https://www.w3schools.com/python/)  
 
 ### 🧩 Mini Project
 - [ ] *Student Grade Calculator* or *Expense Tracker*  
