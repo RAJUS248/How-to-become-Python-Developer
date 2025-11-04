@@ -1,0 +1,3 @@
+Hello i am Raju 
+learning file handling in python
+this line added safely
